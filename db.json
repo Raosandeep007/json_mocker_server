@@ -1,4 +1,5 @@
 {
+  "posts": [{ "id": 1, "first_name": "Goldy", "last_name": "Stockbridge" }],
   "users": [
     { "id": 1, "first_name": "Goldy", "last_name": "Stockbridge" },
     { "id": 2, "first_name": "Gustie", "last_name": "Ellissen" },
